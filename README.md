@@ -49,7 +49,7 @@ From above result we can see that first 6 debt indicators are nearly has every c
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/654ee627-1323-4248-9228-4de66ac6586e)
 
-with this can be able to find out other plausiable economic issue that can countries are going through.
+with this we can be able to find out other plausiable economic issue that can countries are going through.
 
 So in this SQL analytics project we took a look at debt owed by countries accross the globe. With this we are able to found out statistics summary about data and some interesting facts about the data.
 
