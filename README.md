@@ -37,8 +37,7 @@ From this we can say that China has maximum amount of debt in all debt indicator
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/034701e9-625d-48e8-904e-4203f4ea5f2e)
 
-From above result we can see that first 6 debt indicators are nearly has every country. Now from the average debt by date indicator we can see that DT.AMT.DLXF.CD
-and DT.AMT.DPNG.CD has huge difference between other debt indicators. Also with this result we can say that all countries are going throigh this 6 common economic issues
+From above result we can see that first 6 debt indicators are nearly has every countrafty. Now from the average debt owed by countries data we can see that there is huge difference in the amount of debt after second  indicator. Also with this result we can say that all countries are going throigh this 6 common economic issues.
 
 7) So lets see which country has highest amount of debt  belong to this long term category of debt as this first 2 indicators looks more severe compared to other indicators.
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/0fed610b-02a8-4399-b6a4-d9fd4b85a9cf)
