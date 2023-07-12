@@ -32,7 +32,7 @@ From this we can say that China has maximum amount of debt in all debt indicator
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/1bde433c-2a4c-4bfe-a301-ee752f7ed44e)
 
-6) Now that we have average amount of debt by all indicators let's find out which debt indicator is most common:
+6) Now that we have average amount of debt by all indicators let's find out which all debt indicators are most common:
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/bca2d22b-bc2b-4a1d-a347-977b0e932f74)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/034701e9-625d-48e8-904e-4203f4ea5f2e)
