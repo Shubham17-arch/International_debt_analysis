@@ -9,17 +9,17 @@ Let's analyze the data
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/0167a44f-78ae-4492-ab25-66c9090e8221)
 
-3) Now we will check Total amount of debt own by countries:
+2) Now we will check Total amount of debt own by countries:
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/f4866e45-254e-4afe-aead-e7977b54cbe6)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/417eb4b3-e384-40f7-8a44-fd0cb0f42871)
 
-5) Let see what are all debt indicator are there in our data
+3) Let see what are all debt indicator are there in our data
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/9ba0e611-e375-4524-b06c-9f09a7cbf1e1)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/eef488c9-b266-41c1-9d62-d3d757c6d7c6)
 
-7) Now let see which country owns the maximum amount of debt and what is that amount:
+4) Now let see which country owns the maximum amount of debt and what is that amount:
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/e967697f-c2f7-4b41-abc0-2b7a5a4345bb)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/5852ff74-3c82-47f3-a1fd-e0d294837712)
@@ -31,7 +31,7 @@ From this we can say that China has maximum amount of debt in all debt indicator
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/1bde433c-2a4c-4bfe-a301-ee752f7ed44e)
 
-7) Now that we have average amount of debt by all indicators let's find out which debt indicator is most common:
+6) Now that we have average amount of debt by all indicators let's find out which debt indicator is most common:
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/bca2d22b-bc2b-4a1d-a347-977b0e932f74)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/034701e9-625d-48e8-904e-4203f4ea5f2e)
@@ -44,7 +44,7 @@ and DT.AMT.DPNG.CD has huge difference between other debt indicators. Also with 
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/c4f91be9-f9bd-4cd5-a24f-1031130ffdfd)
 
-9) Let's find out the maximum amount of debt across the indicators along with the respective country names:
+8) Let's find out the maximum amount of debt across the indicators along with the respective country names:
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/3ee6fd31-ee9f-4f68-b88d-1c6d56897b81)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/654ee627-1323-4248-9228-4de66ac6586e)
