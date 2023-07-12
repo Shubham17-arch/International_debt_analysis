@@ -10,6 +10,7 @@ Let's analyze the data
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/0167a44f-78ae-4492-ab25-66c9090e8221)
 
 2) Now we will check Total amount of debt own by countries:
+
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/f4866e45-254e-4afe-aead-e7977b54cbe6)
 
 ![image](https://github.com/Shubham17-arch/International_debt_analysis/assets/63954721/417eb4b3-e384-40f7-8a44-fd0cb0f42871)
